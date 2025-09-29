@@ -4,4 +4,4 @@ console.log('Check git reset 2');
 
 //add the new code pervius code is store in stash
 console.log('Added from main branch');
-console.log("this is ak ")
+console.log('this is ak from main branch');
