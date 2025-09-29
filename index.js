@@ -8,5 +8,4 @@ console.log('this is ak from main branch');
 console.log('this is ak from main branch 1');
 console.log('this is ak from main branch 2');
 console.log('line add from feature 1 branch')
-console.log('Line added from feature brach 2')
 console.log("this is ak ")
